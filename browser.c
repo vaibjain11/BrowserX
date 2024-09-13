@@ -1,9 +1,3 @@
-/* CSCI-4061 Fall 2022
-* Group Member #1: Michael Vang vang2891
-* Group Member #2: Vaibhav Jain jain0232
-* Group Member #3: Matin Horri horri031
-*/
-
 #include "wrapper.h"
 #include "util.h"
 #include <sys/types.h>
