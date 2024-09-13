@@ -1,5 +1,3 @@
-=# BrowserX
-
 **BrowserX** is a **multithreaded browser simulator** developed in **C/C++** using the **GTK GUI toolkit**. This project demonstrates advanced programming concepts including file I/O, inter-process communication via pipes, and graphical user interface development.
 
 ## Key Features:
